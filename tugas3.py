@@ -55,3 +55,5 @@ namaUser = str(input("Oh halo! Siapa namamu: "))
 umurUser = int(input("\nKalau umurmu berapa : "))
 
 print(f"\nHalooww {namaUser}, senang bertemu denganmu. Kamu kapan ulang tahun ke {umurUser + 1} nya?")
+
+# Link Repo : https://github.com/achul-cos/tugas_python_ai_b10
