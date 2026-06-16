@@ -1,0 +1,40 @@
+===== Numpy =====
+
+Ini data-data random nilai ujian :
+[51 92 14 71 60 20 82 86 74 74 87 99 23  2 21 52  1 87 29 37  1 63 59 20
+ 32 75 57 21 88 48]
+
+Rata-rata nilai ujian :
+50.86666666666667
+
+Median nilai ujian:
+54.5
+
+Standar Deviasi nilai ujian:
+29.89842061975106
+
+Nilai maksimal dari nilai ujian:
+99
+
+Nilai minimum dari nilai ujian:
+1
+
+===== Pandas | Data Mahasiswa =====
+
+Data mahasiswa 5 teratas:
+
+     nama  nim  nilai     alamat  tinggi       status
+0   Achul  111     51   sagulung   161.2  TIDAK LULUS
+1   Valdo  222     92   batu aji   162.2        LULUS
+2  Steven  333     14  puskopkar   181.3  TIDAK LULUS
+3   Tatik  444     71    tembesi   160.1        LULUS
+4    Hasi  555     60     nagoya   159.7  TIDAK LULUS
+
+Jumlah mahasiswa : 11
+
+Jumlah mahasiswa lulus : 7      Tidak lulus : 4
+===== GradeBook =====
+
+Rata-rata nilai mahasiswa = 64.6
+
+Persentase kelulusan mahasiswa = 63.64
