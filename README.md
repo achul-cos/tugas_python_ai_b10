@@ -7,9 +7,9 @@ Repository ini merupakan arsip tugas [Nasrullah (Achul)](https://www.github.com/
 
 ## Daftar Tugas
 
- - [Tugas 4 - Python Data Structures](#-tugas-4-python-data-structures)
- - [Tugas 5 - Python Function and Class](#-tugas-5-python-function-and-class)
- - [Tugas 6 - Python Modules, File I/O, & OOP Sederhana](#-tugas-6-python-modules,-file-i/o,-&-oop-sederhana)
+ - [Tugas 4 - Python Data Structures](https://github.com/achul-cos/tugas_python_ai_b10#tugas-4---python-data-structures)
+ - [Tugas 5 - Python Function and Class](https://github.com/achul-cos/tugas_python_ai_b10#tugas-5---python-function-and-class)
+ - [Tugas 6 - Python Modules, File I/O, & OOP Sederhana](https://github.com/achul-cos/tugas_python_ai_b10#tugas-6---python-modules-file-io--oop-sederhana)
 
 
 ## Deployment
