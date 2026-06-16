@@ -150,7 +150,7 @@ Serta membuat file berupa ringkasan [ringkasan_tugas6.txt](https://github.com/ac
 
 Serta melakukan pemograman class sederhana.
 
-Berikut file dari [tugas 5](https://github.com/achul-cos/tugas_python_ai_b10/blob/main/tugas6.py)
+Berikut file dari [tugas 6](https://github.com/achul-cos/tugas_python_ai_b10/blob/main/tugas6.py)
 
 Untuk run dan menjalankan tugasnya,
 
